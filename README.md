@@ -1,4 +1,4 @@
 # exercise-javascript
-This is my exercise for learning javaScript
-Source : 
+This is my exercise for learning javaScript  
+Source :  
 http://javascript.info
